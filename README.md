@@ -35,8 +35,8 @@ A classic Tic-Tac-Toe game implemented in HTML, CSS, and JavaScript with a twist
 
 ## Screenshots
 
-![Game Start](![screencapture-file-C-Users-hp-Desktop-Tic-Tac-Toe-main-new-index-html-2024-07-12-11_27_21](https://github.com/user-attachments/assets/5bd7cc42-7eb7-4cf7-bb0f-05bde477bc4f))
-![Game Play](![screencapture-file-C-Users-hp-Desktop-Tic-Tac-Toe-main-new-index-html-2024-07-12-11_27_39](https://github.com/user-attachments/assets/71f60d93-f7c3-4604-b1e1-141d60b58ecc))
+![Game Start](![WhatsApp Image 2024-07-12 at 11 33 10_5ae16a97](https://github.com/user-attachments/assets/0676af44-ff01-4a74-97e5-4a383d045364))
+![Game Play](![WhatsApp Image 2024-07-12 at 11 32 24_f0848d36](https://github.com/user-attachments/assets/c7dd64c0-4217-4a8e-b90b-ae3a2ef3a249))
 ![Winning Line](![WhatsApp Image 2024-07-12 at 11 24 43_d665b748](https://github.com/user-attachments/assets/e8217a6f-8f20-44a4-b208-2f1fab13adf3))
 
 ## Contributing
