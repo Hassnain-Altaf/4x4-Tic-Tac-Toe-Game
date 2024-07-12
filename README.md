@@ -27,7 +27,7 @@ A classic Tic-Tac-Toe game implemented in HTML, CSS, and JavaScript with a twist
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/4x4-tic-tac-toe.git
+    git https://github.com/Hassnain-Altaf/4x4-Tic-Tac-Toe-Game.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -37,8 +37,8 @@ A classic Tic-Tac-Toe game implemented in HTML, CSS, and JavaScript with a twist
 
 ## Screenshots
 
-![Game Start](![image](https://github.com/user-attachments/assets/8b09f612-7983-44a0-b96e-774fc7919d21))
-![Game Play](![image](https://github.com/user-attachments/assets/1e729c8c-edf6-4fb4-bcfd-47d04ad0d08f))
+![Game Start](![screencapture-file-C-Users-hp-Desktop-Tic-Tac-Toe-main-new-index-html-2024-07-12-11_27_21](https://github.com/user-attachments/assets/5bd7cc42-7eb7-4cf7-bb0f-05bde477bc4f))
+![Game Play](![screencapture-file-C-Users-hp-Desktop-Tic-Tac-Toe-main-new-index-html-2024-07-12-11_27_39](https://github.com/user-attachments/assets/71f60d93-f7c3-4604-b1e1-141d60b58ecc))
 ![Winning Line](![WhatsApp Image 2024-07-12 at 11 24 43_d665b748](https://github.com/user-attachments/assets/e8217a6f-8f20-44a4-b208-2f1fab13adf3))
 
 ## Contributing
