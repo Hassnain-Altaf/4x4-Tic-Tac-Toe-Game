@@ -35,9 +35,9 @@ A classic Tic-Tac-Toe game implemented in HTML, CSS, and JavaScript with a twist
 
 ## Screenshots
 
-![Game Start](![WhatsApp Image 2024-07-12 at 11 33 10_5ae16a97](https://github.com/user-attachments/assets/0676af44-ff01-4a74-97e5-4a383d045364))
-![Game Play](![WhatsApp Image 2024-07-12 at 11 32 24_f0848d36](https://github.com/user-attachments/assets/c7dd64c0-4217-4a8e-b90b-ae3a2ef3a249))
-![Winning Line](![WhatsApp Image 2024-07-12 at 11 24 43_d665b748](https://github.com/user-attachments/assets/e8217a6f-8f20-44a4-b208-2f1fab13adf3))
+![WhatsApp Image 2024-07-12 at 11 33 10_5ae16a97](https://github.com/user-attachments/assets/0676af44-ff01-4a74-97e5-4a383d045364)
+(![WhatsApp Image 2024-07-12 at 11 32 24_f0848d36](https://github.com/user-attachments/assets/c7dd64c0-4217-4a8e-b90b-ae3a2ef3a249)
+(![WhatsApp Image 2024-07-12 at 11 24 43_d665b748](https://github.com/user-attachments/assets/e8217a6f-8f20-44a4-b208-2f1fab13adf3)
 
 ## Contributing
 
