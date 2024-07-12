@@ -5,7 +5,6 @@ A classic Tic-Tac-Toe game implemented in HTML, CSS, and JavaScript with a twist
 
 - **4x4 Grid**: A larger grid for a more challenging game.
 - **Two-Player Mode**: Allows two users to play against each other.
-- **Symbol Selection**: Users can choose their symbol (X or O) before the game starts.
 - **Winning Line Highlight**: Highlights the winning line for a short duration before resetting the game.
 - **Responsive Design**: The game is fully responsive and works on different screen sizes.
 
@@ -18,10 +17,9 @@ A classic Tic-Tac-Toe game implemented in HTML, CSS, and JavaScript with a twist
 ## How to Play
 
 1. Open the game in a web browser.
-2. Select your symbol (X or O).
-3. Take turns clicking on the grid to place your symbol.
-4. The first player to align four of their symbols in a row, column, or diagonal wins.
-5. The winning line is highlighted, and the game resets after a short delay.
+2. Take turns clicking on the grid to place your symbol.
+3. The first player to align four of their symbols in a row, column, or diagonal wins.
+4. The winning line is highlighted, and the game resets after a short delay.
 
 ## Setup
 
