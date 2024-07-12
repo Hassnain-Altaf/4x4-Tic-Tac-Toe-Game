@@ -1,0 +1,93 @@
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #282c34;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #ffffff;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+section {
+    text-align: center;
+    background-color: #3b3f47;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.cell {
+    font-family: "Permanent Marker", cursive;
+    width: 100px;
+    height: 100px;
+    box-shadow: 2px 2px 2px 2px #ecd7ba;
+    border: 2px solid #ecd7ba;
+    cursor: pointer;
+    line-height: 100px;
+    font-size: 60px;
+    transition: color 0.5s ease, background-color 0.5s ease;
+}
+
+.cell.X {
+    color: red;
+    text-shadow: 0 0 5px rgba(255, 0, 0, 0.5), 0 0 10px rgba(255, 0, 0, 0.5), 0 0 15px rgba(255, 0, 0, 0.5), 0 0 20px rgba(255, 0, 0, 0.5);
+}
+
+.cell.O {
+    color: blue;
+    text-shadow: 0 0 5px rgba(0, 0, 255, 0.5), 0 0 10px rgba(0, 0, 255, 0.5), 0 0 15px rgba(0, 0, 255, 0.5), 0 0 20px rgba(0, 0, 255, 0.5);
+}
+
+.cell.winning-cell {
+    background-color: rgb(0, 255, 128);
+    text-shadow: 0 0 5px rgba(0, 0, 255, 0.5), 0 0 10px rgba(0, 0, 255, 0.5), 0 0 15px rgba(0, 0, 255, 0.5), 0 0 20px rgba(0, 0, 255, 0.5);
+    /* text-decoration: line-through; */
+}
+
+.game--title {
+    font-size: 60px;
+    color: #2fbed7;
+    text-shadow: 0 0 5px rgba(0, 0, 255, 0.5), 0 0 10px rgba(0, 0, 255, 0.5), 0 0 15px rgba(0, 0, 255, 0.5), 0 0 20px rgba(0, 0, 255, 0.5);
+    margin: 10px auto;
+}
+
+.game--container {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    gap: 5px;
+    width: fit-content;
+    margin: 10px auto;
+    background-color: #11213a;
+    color: #04c0b2;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.game--status {
+    font-size: 30px;
+    color: #2fa7d7;
+    text-shadow: 0 0 5px rgba(0, 0, 255, 0.5), 0 0 10px rgba(0, 0, 255, 0.5), 0 0 15px rgba(0, 0, 255, 0.5), 0 0 20px rgba(0, 0, 255, 0.5);
+    margin: 20px auto;
+}
+
+.game--restart {
+    background-color: #acf7eb;
+    
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    color: #095bf3;
+    box-shadow: 0px 0px 2px 2px #23d868;
+    border: 2px solid #d86c23;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.game--restart:hover {
+    background-color: #ffdab9;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.3);
+}
